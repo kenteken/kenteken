@@ -32,7 +32,7 @@
 		</header>
 	<div class="back">
 		<div class="div">
-		daniboy
+		daniboy is een cutie
 		</div>
 		<div style="padding:0% 0% 30% 2.5%">
 			<h1>Ken-te-ken</h1>
