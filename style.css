@@ -1,0 +1,20 @@
+.homo
+	{font-size: 100px;
+	}
+.homo:hover	{
+	animation: mymove 0.1s infinite;
+	}
+@keyframes mymove {
+    0%  	{background-color: rgba(211, 211, 211,1);}
+    10%	{background-color: blue;}
+    20% 	{background-color: yellow;}
+    30% 	{background-color: green;}
+    40% 	{background-color: orange;}
+    50% 	{background-color: lightgreen;}
+    60% 	{background-color: white;}
+    70% 	{background-color: brown;}
+    80% 	{background-color: lightblue;}
+    90% 	{background-color: magenta;}
+    100%{background-color: cyan;}
+	
+}
