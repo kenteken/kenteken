@@ -1,0 +1,104 @@
+body
+	{
+	background-color: rgba(211, 211, 211, 0.75);
+	background-image: url("nowhere.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font-family: sans-serif;
+	}
+.inloggen:hover	{
+	animation: button 2s infinite;
+}
+.box,.inloggen
+	{
+	background-color: rgba(125, 200, 200, 1);
+	border: solid;
+	border-width: 1px;
+}
+.box:hover
+	{
+	animation: box 1s;
+	background-color: rgba(75, 175, 175, 1);
+	}
+.box:focus
+	{
+	animation: box 1s;
+	background-color: rgba(75, 175, 175, 1);
+	}
+@keyframes button {
+    0%  	{background-color: rgba(125, 200, 200, 1);}
+    50%{background-color: rgba(75, 175, 175, 1);}
+    100%{background-color: rgba(125, 200, 200, 1);}
+}
+@keyframes box {
+    0%  	{background-color: rgba(125, 200, 200, 1);}
+    100%{background-color: rgba(75, 175, 175, 1);}
+}
+header
+	{
+	margin-top: -10px;
+	margin-bottom: 5%;
+	padding: 1%;
+	font-size: 1.em;
+	background-color:rgba(211, 211, 11, 1);
+	border-bottom: solid;
+	border-width: 0.1em;
+	margin-right: -0.5%;
+	margin-left: -0.5%;
+	box-shadow: 10px 10px 5px #888888;
+}
+.back		{
+	padding-top: 5%;
+	margin-right: 11%;
+	margin-left: 11%;
+	margin-top: -5%;
+	margin-bottom: 5%;
+	background-color:rgba(125, 200, 200, 1);
+	box-shadow: 10px 10px 30px #888888;
+	border-radius: 0 0 13px 13px;
+	}
+.border		{
+	padding-left: 5%;
+	}
+li
+	{
+	font-family: sans-serif;
+	}
+.grad {
+	margin-top: -17px;
+    padding-bottom: 3.5%;
+    background: -webkit-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* Standard syntax (must be last) */
+}
+.headimg
+{	
+	padding-top: 0.5%;
+}
+.login
+	{
+	float:right;
+	overflow:auto;
+	}
+address	{
+	margin: 5% 0  -10px;
+	padding: 1%;
+	font-size: 1.em;
+	background: -webkit-linear-gradient(rgba(75, 175, 175, 1), rgba(12, 100, 122, 1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(75, 175, 175, 1), rgba(12, 100, 122, 1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(75, 175, 175, 1), rgba(12, 100, 122, 1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(75, 175, 175, 1), rgba(12, 100, 122, 1)); /* Standard syntax (must be last) */
+	border-top: solid;
+	border-width: 0.1em;
+	border-radius: 0 0 13px 13px;
+}
+.div
+	{
+	background-color: green;
+	margin: 30px;
+	padding: 30px;
+	border-radius: 13px;
+	float:right;
+	overflow:auto;
+	}
