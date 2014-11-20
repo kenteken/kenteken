@@ -14,25 +14,38 @@
 					Include("login.php");
 				}
 		?>
-		<header class=grad>
-			<div class=headimg>
-				<img 
-				src="kenteken.png" 
-				alt="Foto van het Kenteken" 
-				title="Je moeder"
-				style="height:12.5%; width:12.5%; float:left;">
-			</div>
-			<div class=login>
-				<form method="post" action="index.php">
-					<label for="username">Username </label><input class="box" type="text" id="username" name="username" placeholder="Username" required/>
-					<label for="password">Password </label><input class="box" type="password" id="password" name="password" placeholder="Password" required/>
-					<input class=inloggen type="submit" name="inloggen" value="inloggen"/>
-				</form>
+		<header>
+			<div class=header>
+				<div class=grad>
+					<div class=headimg>
+						<img 
+						src="kenteken.png" 
+						alt="Foto van het Kenteken" 
+						title="Je moeder"
+						style="height:12.5%; width:12.5%; float:left;">
+					</div>
+					<div class=login>
+						<form method="post" action="index.php">
+							<label for="username">Username </label><input class="box" type="text" id="username" name="username" placeholder="Username" required/>
+							<label for="password">Password </label><input class="box" type="password" id="password" name="password" placeholder="Password" required/>
+							<input class=inloggen type="submit" name="inloggen" value="inloggen"/>
+						</form>
+					</div>
+				</div>
+				<div class=secondheader>
+					<ul id=menu>
+						<li class=menuitem><a class=mlink href="#home">Home</a></li>
+						<li class=menuitem><a class=mlink href="#news">News</a></li>
+						<li class=menuitem><a class=mlink href="#contact">Contact</a></li>
+						<li class=menuitem><a class=mlink href="#about">About</a></li>
+					</ul>
+				</div>
 			</div>
 		</header>
 	<div class="back">
-		<div class="div">
-		het werkt! behalve inloggen :(
+		<div class="construction">
+		Site is nog <em>Under construction!</em><br>
+		We hopen de site snel werkend te hebben.
 		</div>
 		<div style="padding:0% 0% 30% 2.5%">
 			<h1>Ken-te-ken</h1>
