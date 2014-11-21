@@ -33,12 +33,12 @@
 					</div>
 				</div>
 				<div class=secondheader>
-					<ul id=menu>
-						<li class=menuitem><a class=mlink href="#home">Home</a></li>
-						<li class=menuitem><a class=mlink href="#news">News</a></li>
-						<li class=menuitem><a class=mlink href="#contact">Contact</a></li>
-						<li class=menuitem><a class=mlink href="#about">About</a></li>
-					</ul>
+						<ul class=menu>
+							<li class=menuitem><a class=mlink href="#home">Home</a></li>
+							<li class=menuitem><a class=mlink href="#news">News</a></li>
+							<li class=menuitem><a class=mlink href="#contact">Contact</a></li>
+							<li class=menuitem><a class=mlink href="#about">About</a></li>
+						</ul>
 				</div>
 			</div>
 		</header>
