@@ -73,7 +73,7 @@
 			  Gemaakt door: Joost Sijm en Dani.<br>
 			  Contact informatie: <a href="mailto:joostsijm@gmail.com">joostsijm@gmail.com</a>.
 			</footer> 
-		</address>	
+		</address>	hasses
 	</div>
 	</body>
 </html>
