@@ -1,3 +1,3 @@
 <?php
-Include("../pages/index.php");
+Include("pages/index.php");
 ?>
