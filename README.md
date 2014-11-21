@@ -1,6 +1,14 @@
 kenteken
 ========
 
-de kenteken website
+## Wat is dit?
 
-voor het delen van allemaal troep!
+De kenteken website 
+
+## Wat is de nut?
+
+Het delen van allemaal troep!
+
+## Waar?
+
+http://www.kenteken.tk
