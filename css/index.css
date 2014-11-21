@@ -1,7 +1,7 @@
 body
 	{
 	background-color: rgba(211, 211, 211, 0.75);
-	background-image: url("nowhere.jpg");
+	background-image: url("../media/nowhere.jpg");
 	background-attachment: fixed;
 	background-size: 100% 100%;
 	font-family: sans-serif;
@@ -51,18 +51,11 @@ li
 	{
 	font-family: sans-serif;
 	}
-.grad {
-	margin-top: -17px;
-	padding: 1%;
-    padding-bottom: 3.5%;
-    background: -webkit-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* Standard syntax (must be last) */
-}
-.headimg
+.logo
 {	
-	padding-top: 0.5%;
+	height: 12.5%; 
+	width: 12.5%; 
+	float:left;
 }
 .login
 	{
@@ -91,7 +84,23 @@ address	{
 	overflow:auto;
 	border-bottom-style: solid;
 	}
-.secondheader
+header
+	{
+	margin-right: -0.45%;
+	margin-left: -0.45%;
+	margin-bottom: 5%;
+	box-shadow: 10px 10px 5px #888888;
+}
+.head1 {
+	margin-top: -1%;
+	padding: 1%;
+    padding-bottom: 3.5%;
+    background: -webkit-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(12, 100, 122, 1), rgba(75, 175, 175, 1)); /* Standard syntax (must be last) */
+}
+.head2
 	{
 	background-color: #2096E1;
 	border-top: 1px solid rgba(252, 252, 252, 0.42);
@@ -102,16 +111,6 @@ address	{
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
 	border-bottom-color: #032A46;
-	margin-right: -0.5%;
-	margin-left: -0.5%;
-	margin-bottom: 5%;
-}
-header
-	{
-	margin-right: -0.5%;
-	margin-left: -0.5%;
-	margin-bottom: 5%;
-	box-shadow: 10px 10px 5px #888888;
 }
 .menu {
     list-style-type: none;
