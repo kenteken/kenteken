@@ -13,7 +13,8 @@
 				<form method="post" action="index.php">
 					<label for="username">Username </label><input class="box" type="text" id="username" name="username" placeholder="Username" required/>
 					<label for="password">Password </label><input class="box" type="password" id="password" name="password" placeholder="Password" required/>
-					<input class=inloggen type="submit" name="inloggen" value="inloggen"/>
+					<!--<input class=inloggen type="submit" name="inloggen" value="inloggen"/>-->
+					<a class=inloggen href="../pages/lol.html">Login</a>
 				</form>
 			</div>
 		</div>
