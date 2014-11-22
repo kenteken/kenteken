@@ -5,8 +5,8 @@
 		<Meta charset=utf-8>
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
-		<link rel="icon" href="favicon.ico" type="image/x-icon" />
-		</head>
+		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
+	</head>
 	<body> 
 		<?php
 			if(isset($_POST['inloggen']))
