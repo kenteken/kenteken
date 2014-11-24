@@ -25,7 +25,7 @@
 			<ul>
 				<li>Huiswerk</li>
 				<li>Uitleg</li>
-				<li><a href="../media/daniboy.png">Dani</a><br></li>
+				<li><a href="../media/Daniboy.png">Dani</a><br></li>
 				<li>En nog meer!</li>
 				<li><a href="https://7chan.org/fl/src/SuperDeepthroat1_9_1b.swf">vlinders</a></li>
 			</ul>
