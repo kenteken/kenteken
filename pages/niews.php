@@ -6,6 +6,15 @@
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
 		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
+		<style>
+			.menuitem2 {
+				float:left;
+				background-color:rgba(75,175,175,1);
+				border-left:solid;
+				border-right:solid;
+				border-width:.1em;
+			}
+		</style>
 		</head>
 	<body> 
 		<?php
