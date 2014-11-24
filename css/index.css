@@ -110,6 +110,8 @@ padding:4px;
 
 .mlink:hover,.mlink:active {
 background-color:#2064E1;
+border-radius:13px 13px 0 0 ;
+}
 }
 
 .box:hover,.box:focus {

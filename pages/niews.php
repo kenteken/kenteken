@@ -8,11 +8,12 @@
 		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
 		<style>
 			.menuitem2 {
-				float:left;
-				background-color:rgba(75,175,175,1);
+				background-color:rgba(125,200,200,1);
 				border-left:solid;
 				border-right:solid;
+				border-top:solid;
 				border-width:.1em;
+				border-radius:13px 13px 0 0 ;
 			}
 		</style>
 		</head>
