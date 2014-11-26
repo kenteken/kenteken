@@ -1,13 +1,13 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Kentéken | news</title>		
+		<title>Kentéken | home</title>		
 		<Meta charset=utf-8>
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
-		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />\
+		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
 		<style>
-			.menuitem3 {
+			.menuitem3			{
 				background-color:rgba(125,200,200,1);
 				border:solid;
 				border-width:.1em;
@@ -16,7 +16,7 @@
 				border-bottom: 1px solid rgba(125,200,200,1);
 			}
 		</style>
-		</head>
+	</head>
 	<body> 
 		<?php
 			if(isset($_POST['inloggen']))
@@ -24,11 +24,12 @@
 					Include("login.php");
 				}
 			Include("../pages/header.php");
+			Include("../pages/construction.php");
 		?>
 		<div style="padding:0% 0% 30% 2.5%">
 			<img id="myImage" onclick="changeImage()" src="../media/pic_bulboff.gif" width="100" height="180">
 
-			<p>Click the light bulb to turn on/off the light.</p>
+			<p>Klik op de lamp om hem aan en uit te zetten</p>
 
 			<script>
 			function changeImage() {
