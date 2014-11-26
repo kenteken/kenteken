@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Ken-te-ken | news</title>		
+		<title>Kentéken | news</title>		
 		<Meta charset=utf-8>
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
