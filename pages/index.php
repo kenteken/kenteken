@@ -37,13 +37,13 @@
 				<li>Uitleg</li>
 				<li><a href="../media/Daniboy.png">Dani</a><br></li>
 				<li>En nog meer!</li>
-				/* <li><a href="https://7chan.org/fl/src/SuperDeepthroat1_9_1b.swf">vlinders</a></li> */
+				<!--<li><a href="https://7chan.org/fl/src/SuperDeepthroat1_9_1b.swf">vlinders</a></li>-->
 			</ul>
 			<h2 id=link>Handige links</h2>
 			<p>
 				<a href="http://natschool.horizoncollege.nl/">natschool.horizoncollege.nl</a><br>
 				<a href="http://www.w3schools.com/">w3schools.com</a><br>
-				<!--<a href="http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/default.htm">Roosters Sector Economie</a><br>-->
+				<a href="http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/default.htm">Roosters Sector Economie</a><br>
 				<a href=""></a>
 			</p>
 		</div>
