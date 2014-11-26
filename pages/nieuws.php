@@ -9,11 +9,11 @@
 		<style>
 			.menuitem2 {
 				background-color:rgba(125,200,200,1);
-				border-left:solid;
-				border-right:solid;
-				border-top:solid;
+				border:solid;
 				border-width:.1em;
-				border-radius:13px 13px 0 0 ;
+				border-radius:13px 13px 0 0;
+				margin-bottom: -1px;
+				border-bottom: 1px solid rgba(125,200,200,1);
 			}
 		</style>
 		</head>

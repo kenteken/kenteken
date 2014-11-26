@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Ken-te-ken | home</title>		
+		<title>Kentéken | home</title>		
 		<Meta charset=utf-8>
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
@@ -9,11 +9,11 @@
 		<style>
 			.menuitem1 {
 				background-color:rgba(125,200,200,1);
-				border-left:solid;
-				border-right:solid;
-				border-top:solid;
+				border:solid;
 				border-width:.1em;
-				border-radius:13px 13px 0 0 ;
+				border-radius:13px 13px 0 0;
+				margin-bottom: -1px;
+				border-bottom: 1px solid rgba(125,200,200,1);
 			}
 		</style>
 	</head>
