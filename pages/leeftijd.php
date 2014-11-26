@@ -47,7 +47,7 @@
 				</select><br>
 				<label for="geboortedag">geboorte dag: </label><input type="date" id="geboortedag" name="geboortedag"  required><br>
 				<label for="geboorteuur">geboorte uur: </label>
-				<select name="geboorteuur" id="geboorteuur" required>
+				<select name="geboorteuur" id="geboorteuur">
 					<option value="">0</option>
 					<option value="0">0</option>
 					<option value="1">1</option>
