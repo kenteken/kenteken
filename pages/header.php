@@ -26,8 +26,6 @@
 				</ul>
 		</div>
 	</div>
-		<?php
-			<?php include_once("../pages/analyticstracking.php") ?>
-		?>
+		<?php include_once("../pages/analyticstracking.php") ?>
 </header>
 <div class="back">
