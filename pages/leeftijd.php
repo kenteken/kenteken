@@ -17,7 +17,7 @@
 			}
 		</style>
 	</head>
-	<body> 
+	<body id="tab4"> 
 		<?php
 			if(isset($_POST['inloggen']))
 				{
@@ -78,7 +78,6 @@
 				<input type="submit" name="submit" value = "submit"><br>
 			</form>
 			<?php
-				session_start();
 				if(isset($_POST['submit']))
 					{
 					date_default_timezone_set('Europe/Amsterdam');

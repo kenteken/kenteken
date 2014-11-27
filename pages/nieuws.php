@@ -17,7 +17,7 @@
 			}
 		</style>
 		</head>
-	<body> 
+	<body id="tab2"> 
 		<?php
 			if(isset($_POST['inloggen']))
 				{
