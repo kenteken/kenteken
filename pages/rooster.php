@@ -1,13 +1,13 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Kentéken | super deep throat</title>		
+		<title>Kentéken | home</title>		
 		<Meta charset=utf-8>
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
 		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
 	</head>
-	<body> 
+	<body id="tab5"> 
 		<?php
 			if(isset($_POST['inloggen']))
 				{
@@ -15,7 +15,7 @@
 				}
 			Include("../pages/header.php");
 		?>
-			 <embed width="100%" height="800px" src="https://7chan.org/fl/src/SuperDeepthroat1_9_1b.swf"> 
+			 <iframe src="http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/48/c/c00018.htm" frameborder="0" width="100%" height="800px"></iframe>
 		<?php
 			Include("../pages/footer.php");
 		?>

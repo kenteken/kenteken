@@ -24,6 +24,7 @@
 				<li class="tab2"><a href=../pages/nieuws.php>Nieuws</a></li>
 				<li class="tab3"><a href=../pages/java.php>Java</a></li>
 				<li class="tab4"><a href=../pages/leeftijd.php>Leeftijd</a></li>
+				<li class="tab5"><a href=../pages/rooster.php>Rooster IO1A</a></li>
 			</ul>
 		</div>
 	</div>

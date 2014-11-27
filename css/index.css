@@ -87,7 +87,7 @@ ul#tabnav {
 text-align: left; 
 border-bottom: 1px solid black;
 list-style-type: none;
-padding: 1% 40% 3px 40%;
+padding: 1% 35% 3px 35%;
 list-style-type:none;
 margin-top: -0.5%;
 }
@@ -96,7 +96,7 @@ ul#tabnav li { /* do not change */
 display: inline;
 }
 
-body#tab1 li.tab1 a, body#tab2 li.tab2 a, body#tab3 li.tab3 a, body#tab4 li.tab4 a, body#tab5 li.tab5 a {
+body#tab1 li.tab1 a, body#tab2 li.tab2 a, body#tab3 li.tab3 a, body#tab4 li.tab4 a, body#tab5 li.tab5 a, body#tab6 li.tab6 a, body#tab7 li.tab7 a, body#tab8 li.tab8 a {
 background-color: rgba(125,200,200,1); 
 position: relative;
 border: 1px solid black;
