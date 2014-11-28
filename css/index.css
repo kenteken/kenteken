@@ -84,10 +84,9 @@ border-top-color:rgba(252,252,252,0.42);
 }
 
 ul#tabnav {
-text-align: left; 
 border-bottom: 1px solid black;
 list-style-type: none;
-padding: 1% 35% 3px 35%;
+padding: 1% 0% 3px 0%;
 list-style-type:none;
 margin-top: -0.5%;
 }
@@ -100,7 +99,7 @@ body#tab1 li.tab1 a, body#tab2 li.tab2 a, body#tab3 li.tab3 a, body#tab4 li.tab4
 background-color: rgba(125,200,200,1); 
 position: relative;
 border: 1px solid black;
-border-bottom: 1px solid rgba(125,200,200,1);
+border-bottom: 2px solid rgba(125,200,200,1);
 top: 1px;
 }
 
@@ -109,7 +108,6 @@ padding: 3px 4px;
 border: 1px solid black;
 background-color: #cfc;
 color: #000;
-margin-right: 0px;
 text-decoration: none;
 border-bottom: 1px solid #cfc;
 border-radius:13px 13px 0 0 ;
@@ -117,6 +115,10 @@ border-radius:13px 13px 0 0 ;
 
 ul#tabnav a:hover {
 background: #fff;
+}
+.head2 ul	{
+	padding: 5px 0;
+	text-align: center;
 }
 
 .box:hover,.box:focus {
