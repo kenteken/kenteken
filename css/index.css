@@ -6,16 +6,19 @@ background-size:100% 100%;
 font-family:sans-serif;
 }
 
-.inloggen:hover {
+.inloggen:hover,.register:hover {
 animation:button 2s infinite;
 }
 
-.box,.inloggen {
+.box,.inloggen,.register {
 background-color:rgba(125,200,200,1);
 border:solid;
 text-decoration:none;
 color:#000;
 border-width:1px;
+}
+.inloggen{
+padding-right:34%; /* Beter oplossing nodig */
 }
 
 .back {
@@ -38,6 +41,7 @@ float:left;
 
 .login {
 float:right;
+margin-top: -0.5%;
 }
 
 address {

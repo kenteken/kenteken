@@ -11,10 +11,18 @@
 			</div>
 			<div class=login>
 				<form method="post" action="index.php">
-					<label for="username">Username </label><input class="box" type="text" id="username" name="username" placeholder="Username" required/><br>
-					<label for="password">Password </label><input class="box" type="password" id="password" name="password" placeholder="Password" required/>
-					<!--<input class=inloggen type="submit" name="inloggen" value="inloggen"/>-->
-					<a class=inloggen href="../pages/lol.html">Login</a>
+					<table>
+						<tr>
+							<td><label for="username">Username </label></td>
+							<td><input class="box" type="text" id="username" name="username" placeholder="Username" required/></td>
+							<td><a class=register href="../pages/lol.html">Register</a></td>				
+						</tr>
+						<tr>
+							<td><label for="password">Password </label></td>
+							<td><input class="box" type="password" id="password" name="password" placeholder="Password" required/></td>
+							<td><a class=inloggen href="../pages/lol.html">Login</a></td>			
+						</tr>
+					</table>
 				</form>
 			</div>
 		</div>
