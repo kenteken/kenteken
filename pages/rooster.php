@@ -15,7 +15,7 @@
 				}
 			Include("../pages/header.php");
 		?>
-			 <iframe src="http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/48/c/c00018.htm" frameborder="0" width="100%" height="800px"></iframe>
+			 <iframe src="http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/49/c/c00019.htm" frameborder="0" width="100%" height="800px"></iframe>
 		<?php
 			Include("../pages/footer.php");
 		?>
