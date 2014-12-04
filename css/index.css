@@ -17,9 +17,6 @@ text-decoration:none;
 color:#000;
 border-width:1px;
 }
-.inloggen{
-padding-right:34%; /* Beter oplossing nodig */
-}
 
 .back {
 padding-top:5%;
@@ -120,6 +117,7 @@ border-radius:13px 13px 0 0 ;
 ul#tabnav a:hover {
 background: #fff;
 }
+
 .head2 ul	{
 	padding: 5px 0;
 	text-align: center;

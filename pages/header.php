@@ -15,12 +15,12 @@
 						<tr>
 							<td><label for="username">Username </label></td>
 							<td><input class="box" type="text" id="username" name="username" placeholder="Username" required/></td>
-							<td><a class=register href="../pages/lol.html">Register</a></td>				
+							<td><a class=register href="../pages/register.php">Register</a></td>				
 						</tr>
 						<tr>
 							<td><label for="password">Password </label></td>
 							<td><input class="box" type="password" id="password" name="password" placeholder="Password" required/></td>
-							<td><a class=inloggen href="../pages/lol.html">Login</a></td>			
+							<td><input class=inloggen type="submit" name="inloggen" value="inloggen"/></td>			
 						</tr>
 					</table>
 				</form>
