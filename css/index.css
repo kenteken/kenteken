@@ -96,7 +96,7 @@ ul#tabnav li { /* do not change */
 display: inline;
 }
 
-body.tabr1 li.tabr1 a, body.tabr2 li.tabr2 a, body.tabr3 li.tabr3 a, body.tabr4 li.tabr4 a, body.tabr5 li.tabr5 a, body.tabr6 li.tabr6 a, body.tabr7 li.tabr7 a, body.tabr8 li.tabr8 a {
+body#tab1 li.tab1 a, body#tab2 li.tab2 a, body#tab3 li.tab3 a, body#tab4 li.tab4 a, body#tab5 li.tab5 a, body#tab6 li.tab6 a, body#tab7 li.tab7 a, body#tab8 li.tab8 a {
 background-color: rgba(125,200,200,1); 
 position: relative;
 border: 1px solid black;
