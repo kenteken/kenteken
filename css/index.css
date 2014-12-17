@@ -103,7 +103,6 @@ border: 1px solid black;
 border-bottom: 2px solid rgba(125,200,200,1);
 top: 1px;
 }
-
 ul#tabnav li a {
 padding: 3px 4px;
 border: 1px solid black;
@@ -115,7 +114,8 @@ border-radius:13px 13px 0 0 ;
 }
 
 ul#tabnav a:hover {
-background: #fff;
+background: rgba(125,200,200,1);
+border-bottom: 1px solid rgba(125,200,200,1);
 }
 
 .head2 ul	{

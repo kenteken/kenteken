@@ -6,16 +6,6 @@
 		<meta name=description content="">
 		<link rel=stylesheet href="../css/index.css">
 		<link rel="icon" href="../media/favicon.ico" type="image/x-icon" />
-		<style>
-			.menuitem1 {
-				background-color:rgba(125,200,200,1);
-				border:solid;
-				border-width:.1em;
-				border-radius:13px 13px 0 0;
-				margin-bottom: -1px;
-				border-bottom: 1px solid rgba(125,200,200,1);
-			}
-		</style>
 	</head>
 	<body id="tab1"> 
 		<?php
