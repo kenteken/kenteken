@@ -1,5 +1,5 @@
 iframe{
-margin:-1.55% 0% 0%;
+margin: -16px 0% 0%;
 border-bottom: 1px solid black;
 }
 .head3 ul	
@@ -12,7 +12,7 @@ border-bottom: 1px solid black;
 list-style-type: none;
 padding: 1% 0% 3px 0%;
 list-style-type:none;
-margin-top: -0.5%;
+margin-top: -5%;
 }
 
 ul#tabnavr li { /* do not change */
@@ -20,11 +20,13 @@ display: inline;
 }
 
 .tabrja {
-background-color:white; 
-border-bottom: 3px solid white;
+background-color: white; 
 position: relative;
 border: 1px solid black;
+border-bottom: 2px solid white;
+border-radius:13px 13px 0 0 ;
 top: 1px;
+padding: 3px 4px;
 }
 .tabr {
 padding: 3px 4px;
