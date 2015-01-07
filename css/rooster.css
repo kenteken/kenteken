@@ -1,6 +1,7 @@
 iframe{
 margin: -16px 0% 0%;
 border-bottom: 1px solid black;
+background-color: white;
 }
 .head3 ul	
 {
@@ -19,26 +20,39 @@ ul#tabnavr li { /* do not change */
 display: inline;
 }
 
-.tabrja {
+.tabrs {
+padding: 3px 10px;
 background-color: white; 
 position: relative;
 border: 1px solid black;
 border-bottom: 2px solid white;
 border-radius:13px 13px 0 0 ;
 top: 1px;
-padding: 3px 4px;
 }
+
 .tabr {
-padding: 3px 4px;
+padding: 4px 10px;
 border: 1px solid black;
 background-color: #cfc;
 color: #000;
 text-decoration: none;
-border-bottom: 1px solid #cfc;
+border-bottom: 1px solid black;
 border-radius:13px 13px 0 0 ;
 }
 
-ul#tabnavr a:hover {
-background: white;
-border-bottom: 1px solid white);
+ul#tabnavr .tabr:hover {
+background-color: white;
+border-bottom: 1px solid white;
+animation: selectTab 1s;
+}
+button
+{
+border:0; 
+background-color:rgba(0,0,0,0);
+}
+@keyframes selectTab {
+0%  	{background-color: #cfc;
+border-bottom: 1px solid black;}
+100%{background-color: white;
+border-bottom: 1px solid white;}
 }

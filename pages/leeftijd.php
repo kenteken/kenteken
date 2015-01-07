@@ -23,7 +23,7 @@
 						<legend>leeftijd</legend>
 						<tr>
 							<td><label for="geboortedatum">geboorte jaar: </label></td>
-							<td><input type="date" id="geboortedatum" name="geboortedatum" required></td>
+							<td><input type="number" id="geboortedatum" name="geboortedatum" required></td>
 						</tr>
 						
 						<tr>
@@ -49,7 +49,7 @@
 						
 						<tr>
 							<td><label for="geboortedag">geboorte dag: </label></td>
-							<td><input type="date" id="geboortedag" name="geboortedag"  required></td>
+							<td><input type="number" id="geboortedag" name="geboortedag"  required></td>
 						</tr>
 						
 						<tr>

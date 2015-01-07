@@ -24,7 +24,7 @@
 				}
 			Include("../pages/header.php");
 		?>
-		<div style="padding:0% 0% 30% 2.5%">
+		<div style="padding:0% 0% 50% 2.5%">
 			<div class="box1">
 				<img id="myImage" onclick="changeImage()" src="../media/pic_bulboff.gif" width="100" height="180">
 

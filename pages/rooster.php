@@ -32,12 +32,12 @@
 			$stab=$_POST['week'];
 		?>
 		<div class="head3">
-			<form id='rooster' name='rooster' method='post'><!-- Moet nog opgelost worden dat hij goed uitlint-->
+			<form id='rooster' name='rooster' method='post'><!-- Moet nog opgelost worden dat hij goed uit lijnt-->
 				<ul id="tabnavr">
-					<li class="tabr<?php if($stab==0){echo "ja";}?>"><button style="border:0; background-color:rgba(0,0,0,0);" type='submit' value='0' name='week'>Deze week</button></li>
-					<li class="tabr<?php if($stab==1){echo "ja";}?>"><button style="border:0; background-color:rgba(0,0,0,0);" type='submit' value='1' name='week'>Volgende week</button></li>
-					<li class="tabr<?php if($stab==2){echo "ja";}?>"><button style="border:0; background-color:rgba(0,0,0,0);" type='submit' value='2' name='week'>Over 2 weken</button></li>
-					<li class="tabr<?php if($stab==3){echo "ja";}?>"><button style="border:0; background-color:rgba(0,0,0,0);" type='submit' value='3' name='week'>Over 3 weken</button></li>
+					<li class="tabr<?php if($stab==0){echo "s";}?>"><button type='submit' value='0' name='week'>Deze week</button></li>
+					<li class="tabr<?php if($stab==1){echo "s";}?>"><button type='submit' value='1' name='week'>Volgende week</button></li>
+					<li class="tabr<?php if($stab==2){echo "s";}?>"><button type='submit' value='2' name='week'>Over 2 weken</button></li>
+					<li class="tabr<?php if($stab==3){echo "s";}?>"><button type='submit' value='3' name='week'>Over 3 weken</button></li>
 				</ul>
 			</form>
 		</div>
