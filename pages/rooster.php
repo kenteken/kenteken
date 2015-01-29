@@ -42,7 +42,7 @@
 			</form>
 		</div>
 		<?php 
-		echo "<iframe src='http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/" . $date . "/c/c00019.htm' frameborder='0' width='100%' height='800px'>hoi</iframe>";
+		echo "<iframe src='http://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/" . $date . "/c/c00018.htm' frameborder='0' width='100%' height='800px'>hoi</iframe>";
 			Include("../pages/footer.php");
 		?>
 	</body>
